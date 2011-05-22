@@ -1,0 +1,21 @@
+0	0	0	0	
+A	1	2	4	0
+B	3	5	10	0
+C	5	7	14	0
+D	7	10	12	0
+E	20	25	30	0
+F	5	7	12	0 A	B
+G	3	4	8	0 A	B	C
+H	1	2	6	0 A	B	C
+I	1	1	1	0 H
+J	3	4	6	0 I	
+K	1	1	1	0 J
+L	3	5	10	0 F
+M	2	3	4	0 D	L	K
+N	2	3	8	0 M
+O	3	10	12	0 M	E	
+P	2	4	7	0 O
+Q	3	4	9	0 P
+R	4	6	10	0 O
+S	1	2	3	0 O
+Z	0	0	0	A B C D E F G H I J K L M N O P Q R S
